@@ -1,9 +1,9 @@
 # Kenvue Project Plan
 
 ### Group members:
-* Ali Rajabali: 1004993536
-* Angelica Blake: 1006418137
-* Kaoma Bwalya: 1006904469
+* Ali Rajabali
+* Angelica Blake
+* Kaoma Bwalya
 
 ### How are you going to approach the problem(abstract)?
 Our approach to exploring Kenvenue’s product optimization initiative involves a thorough analysis of select datasets to extract actionable insights. We plan on identifying the high-performing need states, optimizing inventory turnover rates, and enhancing sales channels effectiveness. Our team will leverage both our business acumen and programming skills to develop a solution for Kenvue. 
